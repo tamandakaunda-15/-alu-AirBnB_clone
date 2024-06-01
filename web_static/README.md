@@ -11,5 +11,3 @@ Fake contents
 No Javascript
 No data loaded from anything
 
-https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step1.png
-136020130/efe804ee-620f-451d-9af6-fc0faab8d809)
