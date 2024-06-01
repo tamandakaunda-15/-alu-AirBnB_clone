@@ -11,3 +11,4 @@ Fake contents
 No Javascript
 No data loaded from anything
 
+![hbnb_step1](https://github.com/tamandakaunda-15/alu-AirBnB_clone/assets/136020130/133995cc-bd91-428f-a726-2b5b727d9458)
